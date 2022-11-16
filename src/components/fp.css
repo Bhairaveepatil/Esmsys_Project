@@ -1,0 +1,23 @@
+*{
+    background-color: lightcyan;
+}
+.container{
+    margin:50px 0px; 
+    margin-left: 450px;
+    padding:50px 0px;
+    width: 1000px ;
+    box-sizing: border-box;
+    
+}
+.name_login{
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.forgot_pass{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.last{
+    margin-left: 58px;
+    margin-bottom: 20px;
+}

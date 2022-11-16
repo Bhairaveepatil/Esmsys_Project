@@ -1,0 +1,21 @@
+*{
+    background-color: lightcyan;
+}
+.container{
+    margin-top: 20px;
+    margin:50px 0px; 
+    margin-left: 450px;
+    padding:50px 0px;
+    width: 1200px ;
+    box-sizing: border-box;
+    
+}
+.name_login{
+    margin-left: 100px;
+    
+}
+
+.last{
+    margin-left: 58px;
+    margin-bottom: 20px;
+}
